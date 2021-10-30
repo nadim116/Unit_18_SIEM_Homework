@@ -30,13 +30,13 @@ Answer the following questions:
 
 **Based on the report created, what is the approximate date and time of the attack?**
 
-On 2020-02-23 from 14:30:00 to 22:30:00 Approximatly.
+*On 2020-02-23 from 14:30:00 to 22:30:00 Approximatly.
 
 ![Need-for-Speed-4A](./Images/Need-for-Speed-4A.png)
 
 **How long did it take your systems to recover?**
 
-As per log the system start working normally on 2020-02-23 23:30:00
+*As per log the system start working normally on 2020-02-23 23:30:00
 
 ![Need-for-Speed-4B](./Images/Need-for-Speed-4B.png)
 
@@ -87,7 +87,7 @@ Admin Logins
 
 **When did the brute force attack occur?**
 
-A spike occurred at approximately between 9 A.M - 1 P.M on February 21, 2020.  This is indicated by a much higher count of activity compared to the other hours.
+*A spike occurred at approximately between 9 A.M - 1 P.M on February 21, 2020.  This is indicated by a much higher count of activity compared to the other hours.
 
 **Determine a baseline of normal activity and a threshold that would alert if a brute force attack is occurring.**
 
