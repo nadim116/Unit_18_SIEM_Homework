@@ -18,11 +18,11 @@ Hint: The format for creating a ratio is: | eval new_field_name = 'fieldA'  / 'f
 
 Create a report using the Splunk's table command to display the following fields in a statistics report:
 
-_time
-IP_ADDRESS
-DOWNLOAD_MEGABITS
-UPLOAD_MEGABITS
-ratio
+* _time
+* IP_ADDRESS
+* DOWNLOAD_MEGABITS
+* UPLOAD_MEGABITS
+* ratio
 
 Hint: Use the following format when for the table command: | table fieldA  fieldB fieldC.
 Answer the following questions:
