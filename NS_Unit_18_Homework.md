@@ -30,13 +30,13 @@ Answer the following questions:
 
 **Based on the report created, what is the approximate date and time of the attack?**
 
-*On 2020-02-23 from 14:30:00 to 22:30:00 Approximatly.
+   * On 2020-02-23 from 14:30:00 to 22:30:00 Approximatly.
 
 ![Need-for-Speed-4A](./Images/Need-for-Speed-4A.png)
 
 **How long did it take your systems to recover?**
 
-*As per log the system start working normally on 2020-02-23 23:30:00
+   * As per log the system start working normally on 2020-02-23 23:30:00
 
 ![Need-for-Speed-4B](./Images/Need-for-Speed-4B.png)
 
